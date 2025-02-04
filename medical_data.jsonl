@@ -1,0 +1,20 @@
+{"messages": [{"role": "user", "content": "symptoms:Fever, cough, sore throat\nDiagnosis:"}, {"role": "assistant", "content": "Common cold or flu. Rest and stay hydrated."}]}
+{"messages": [{"role": "user", "content": "symptoms:Chest pain, shortness of breath, sweating\nDiagnosis:"}, {"role": "assistant", "content": "Possible heart attack. Seek immediate medical attention."}]}
+{"messages": [{"role": "user", "content": "symptoms:Severe headache, sensitivity to light, nausea\nDiagnosis:"}, {"role": "assistant", "content": "Possible migraine or tension headache. Rest in a dark, quiet room."}]}
+{"messages": [{"role": "user", "content": "symptoms:Abdominal pain, bloating, diarrhea\nDiagnosis:"}, {"role": "assistant", "content": "Possible gastroenteritis. Drink fluids and rest."}]}
+{"messages": [{"role": "user", "content": "symptoms:Frequent urination, increased thirst, unexplained weight loss\nDiagnosis:"}, {"role": "assistant", "content": "Possible diabetes. Consult a healthcare provider."}]}
+{"messages": [{"role": "user", "content": "symptoms:Joint pain, swelling, stiffness\nDiagnosis:"}, {"role": "assistant", "content": "Possible arthritis. Consult a physician for proper management."}]}
+{"messages": [{"role": "user", "content": "symptoms:Itchy eyes, runny nose, sneezing\nDiagnosis:"}, {"role": "assistant", "content": "Allergic rhinitis (hay fever). Antihistamines may help."}]}
+{"messages": [{"role": "user", "content": "symptoms:Rash, fever, fatigue\nDiagnosis:"}, {"role": "assistant", "content": "Possible viral infection or allergic reaction. Consult a doctor."}]}
+{"messages": [{"role": "user", "content": "symptoms:Sudden weight gain, swelling in legs, fatigue\nDiagnosis:"}, {"role": "assistant", "content": "Possible heart failure. Immediate medical evaluation needed."}]}
+{"messages": [{"role": "user", "content": "symptoms:Persistent cough, blood in sputum, weight loss\nDiagnosis:"}, {"role": "assistant", "content": "Possible tuberculosis or lung cancer. Seek urgent medical care."}]}
+{"messages": [{"role": "user", "content": "symptoms:Blurred vision, eye pain, redness\nDiagnosis:"}, {"role": "assistant", "content": "Possible glaucoma or eye infection. Consult an ophthalmologist."}]}
+{"messages": [{"role": "user", "content": "symptoms:Memory loss, confusion, difficulty concentrating\nDiagnosis:"}, {"role": "assistant", "content": "Possible dementia or Alzheimer's disease. Neurological assessment needed."}]}
+{"messages": [{"role": "user", "content": "symptoms:Fatigue, pale skin, dizziness\nDiagnosis:"}, {"role": "assistant", "content": "Possible anemia. Blood tests and treatment advised."}]}
+{"messages": [{"role": "user", "content": "symptoms:High fever, neck stiffness, confusion\nDiagnosis:"}, {"role": "assistant", "content": "Possible meningitis. Immediate medical attention required."}]}
+{"messages": [{"role": "user", "content": "symptoms:Sudden weakness on one side, slurred speech, facial droop\nDiagnosis:"}, {"role": "assistant", "content": "Possible stroke. Call emergency services immediately."}]}
+{"messages": [{"role": "user", "content": "symptoms:Severe abdominal pain, blood in stool\nDiagnosis:"}, {"role": "assistant", "content": "Possible gastrointestinal bleeding. Urgent medical care required."}]}
+{"messages": [{"role": "user", "content": "symptoms:Thirst, excessive hunger, frequent urination\nDiagnosis:"}, {"role": "assistant", "content": "Possible diabetes mellitus. Consult a healthcare provider."}]}
+{"messages": [{"role": "user", "content": "symptoms:Weight loss, night sweats, persistent cough\nDiagnosis:"}, {"role": "assistant", "content": "Possible tuberculosis or lung cancer. Seek urgent evaluation."}]}
+{"messages": [{"role": "user", "content": "symptoms:Frequent headaches, blurred vision, fatigue\nDiagnosis:"}, {"role": "assistant", "content": "Possible hypertension (high blood pressure). Regular monitoring and lifestyle changes recommended."}]}
+{"messages": [{"role": "user", "content": "symptoms:Severe lower back pain, difficulty urinating\nDiagnosis:"}, {"role": "assistant", "content": "Possible kidney stones or urinary tract infection. Medical consultation needed."}]}
